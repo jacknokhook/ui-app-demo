@@ -72,3 +72,5 @@ docker build . -t ui:test
 docker build . -t habor.analytichpxv3.online/kubernetes-workshop/jack-api:dev
 
 docker push habor.analytichpxv3.online/kubernetes-workshop/jack-api:dev
+
+test
